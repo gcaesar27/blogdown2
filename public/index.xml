@@ -6,10 +6,19 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 01:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 10 Apr 2019 01:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Sou jornalista de dados no G1, com passagens pelo Estadão e pelo Poder360. Faço matérias dados e programação e também participo do grupo de checagens Fato ou Fake. Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -19,15 +28,6 @@
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Sou jornalista de dados no G1, com passagens pelo Estadão e pelo Poder360. Faço matérias dados e programação e também participo do grupo de checagens Fato ou Fake. Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.</description>
     </item>
     
     <item>
