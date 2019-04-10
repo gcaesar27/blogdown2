@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pt-br</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>Sou jornalista de dados no G1, com passagens pelo Estadão e pelo Poder360. Faço matérias dados e programação e também participo do grupo de checagens Fato ou Fake. Acompanhei de perto o impeachment de Dilma Rousseff e a cassação de Eduardo Cunha, em 2016.</description>
     </item>
     
     <item>
