@@ -518,6 +518,9 @@ Rua do Alecrim comemora três anos com oficinas gratuitas
 
 ## Folha
 
+45% dos diretores da rede pública chegam ao cargo por indicação    
+30/09/2017    
+[Leia a matéria](https://www1.folha.uol.com.br/seminariosfolha/2017/09/1922961-45-dos-diretores-da-rede-publica-chegam-ao-cargo-por-indicacao.shtml)    
 
 'Não faço festival para críticos', diz Roberto Medina     
 28/09/2015     
