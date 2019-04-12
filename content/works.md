@@ -439,6 +439,82 @@ Manifestantes protestam contra nomeação de Lula na Av. Paulista
 25/04/2016    
 [Leia a matéria](http://politica.estadao.com.br/noticias/geral,a-cnn-temer-nega-que-brasil-seja-republiqueta-do-golpe,10000027995)
 
+Leonelzinho Alencar (PT do B) vira réu por desvio e lavagem de dinheiro    
+30/09/2015    
+[Leia a matéria](http://politica.estadao.com.br/blogs/fausto-macedo/leonelzinho-alencar-pt-do-b-vira-reu-por-desvio-e-lavagem-de-dinheiro/)    
+
+Juiz afasta prefeito por contratos superfaturados com ONG Casa Espírita    
+05/10/2015    
+[Leia a matéria](http://politica.estadao.com.br/blogs/fausto-macedo/juiz-afasta-prefeito-por-contratos-superfaturados-com-ong-casa-espirita/)    
+
+15 momentos de Eduardo Cunha antes do protagonismo nacional    
+17/10/2015    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,15-momentos-de-eduardo-cunha-antes-do-protagonismo-nacional-,1781508)
+
+‘Eduardo é responsável por seus atos’, afirma Luiz Fernando Pezão    
+18/10/2015    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,eduardo-eresponsavelpor-seus-atos--afirma-pezao,10000000412)    
+
+Governador de Rondônia fica no cargo por decisão do TSE    
+02/10/2015    
+[Leia a matéria](http://politica.estadao.com.br/blogs/fausto-macedo/governador-de-rondonia-fica-no-cargo-por-decisao-do-tse/)    
+
+Câmara de São Paulo paga por serviço que seria gratuito    
+07/12/2015    
+[Leia a matéria](http://sao-paulo.estadao.com.br/noticias/geral,camara-de-sp-paga-por-servico-que-seria-gratuito,1807729)    
+
+Sucesso nos Estados Unidos, impressora 3D não deslancha no País    
+12/12/2015    
+[Leia a matéria](http://infograficos.estadao.com.br/e/focas/movimento-maker/impressoras-3D-patinam-no-brasil.php)    
+
+O que fazer (ou não) com uma impressora 3D    
+12/12/2015    
+[Leia a matéria](http://infograficos.estadao.com.br/e/focas/movimento-maker/o-que-fazer-com-impressoras-3d.php)    
+
+10 sites com arquivos de impressão 3D    
+12/12/2015    
+[Leia a matéria](http://infograficos.estadao.com.br/e/focas/movimento-maker/10-sites-com-arquivos-de-impressao-3D.php#)    
+
+Como usar uma impressora 3D    
+12/12/2015    
+[Leia a matéria](http://infograficos.estadao.com.br/e/focas/movimento-maker/como-usar-uma-impressora-3d.php)    
+
+Valor da cesta básica em São Paulo sobe 0,39% em uma semana, diz Procon/Dieese    
+29/10/2015    
+[Leia a matéria](http://maringa.odiario.com/economia/2015/10/valor-da-cesta-basica-em-sao-paulo-sobe-039-em-uma-semana-diz-procondieese/1489007/)    
+
+Inadimplência do consumidor em SP sobe 1,7% em setembro, diz Boa Vista/SCPC    
+30/10/2015    
+[Leia a matéria](http://maringa.odiario.com/economia/2015/10/inadimplencia-do-consumidor-em-sp-sobe-17-em-setembro-diz-boa-vistascpc/1489404/)    
+
+Procura das empresas por crédito recuou 0,5% em setembro, diz Serasa    
+28/10/2015    
+[Leia a matéria](http://maringa.odiario.com/economia/2015/10/procura-das-empresas-por-credito-recuou-05-em-setembro-diz-serasa/1488141/)
+
+Varejo tem retração de 7,4% nas vendas em setembro, mostra IDV    
+29/10/2015    
+[Leia a matéria](http://maringa.odiario.com/economia/2015/10/varejo-tem-retracao-de-74-nas-vendas-em-setembro-mostra-idv/1488822/)    
+
+Para Adriana Carranca, ser mulher não dificulta trabalho em países muçulmanos    
+20/10/2015    
+[Leia a matéria](http://brasil.estadao.com.br/blogs/em-foca/para-adriana-carranca-ser-mulher-nao-dificulta-trabalho-em-paises-muculmanos/)    
+
+Criador do AntiCast afirma que podcasts têm futuro promissor no País    
+20/10/2015    
+[Leia a matéria](http://brasil.estadao.com.br/blogs/em-foca/criador-do-anticast-afirma-que-podcasts-tem-futuro-promissor-no-pais/)
+
+Mondial de La Bière reunirá mais de 800 rótulos de cerveja    
+18/11/2015    
+[Leia a matéria](http://blogs.estadao.com.br/paladar/mondial-de-la-biere-reunira-mais-de-800-rotulos-de-cerveja-no-pier-maua-no-rio/)    
+
+Rua do Alecrim comemora três anos com oficinas gratuitas    
+05/11/2015    
+[Leia a matéria](http://blogs.estadao.com.br/paladar/rua-do-alecrim-comemora-3-anos-com-oficinas-gratuitas/)    
+
+Última etapa do Festival Gastronômico Sabor de São Paulo ocorre neste fim de semana    
+06/11/2015    
+[Leia a matéria](http://blogs.estadao.com.br/paladar/ultima-etapa-do-festival-gastronomico-sabor-de-sao-paulo-ocorre-neste-fim-de-semana/)    
+
 
 ## Folha
 
