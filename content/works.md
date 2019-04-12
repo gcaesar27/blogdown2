@@ -115,3 +115,102 @@ Frases do ano: as 100 declarações mais polêmicas, emblemáticas e inusitadas 
 As promessas dos políticos    
 2/1/2017    
 [Leia a matéria](http://especiais.g1.globo.com/politica/2015/as-promessas-dos-politicos/)    
+
+
+## Poder360
+
+					
+Ciência sem Fronteiras muda e deixa de fora estudantes da graduação					
+23/07/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/23/ciencia-sem-fronteiras-muda-e-deixa-de-fora-estudantes-da-graduacao/)					
+
+CGU deixa de publicar levantamento anual sobre a Lei de Acesso à Informação					
+19/10/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/cgu-deixa-de-publicar-levantamento-anual-sobre-a-lei-de-acesso-a-informacao/)					
+
+Senado gasta R$ 120 mil em livros sobre o impeachment de Dilma Rousseff					
+19/10/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/senado-gasta-r-120-mil-em-livros-sobre-o-impeachment-de-dilma-rousseff/)					
+
+Pedro Paulo empregou a própria mãe quando era funcionário de Paes na Câmara					
+09/08/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/09/pedro-paulo-empregou-a-propria-mae-quando-era-funcionario-de-paes-na-camara/)					
+
+Bahamas Leaks expõe brasileiros com offshore em paraíso fiscal no Caribe					
+27/09/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/27/bahamas-leaks-expoe-brasileiros-com-offshore-em-paraiso-fiscal-no-caribe/)					
+
+126 prefeitos eleitos tentam na Justiça retirar informações da internet					
+31/10/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/31/126-prefeitos-eleitos-tentam-na-justica-retirar-informacoes-da-internet/)					
+
+PSDB e PMDB lideram mapa de pesquisas nas 93 maiores cidades do país					
+28/09/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/28/psdb-e-pmdb-lideram-mapa-de-pesquisas-nas-93-maiores-cidades-do-pais/)					
+
+Governo tem votos suficientes para aprovar PEC do teto dos gastos					
+06/10/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/06/governo-tem-votos-suficientes-para-aprovar-pec-do-teto-dos-gastos/)					
+
+13 mulheres relatam estupro por dia, diz Central de Atendimento 180					
+09/08/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/09/por-dia-13-mulheres-relatam-estupro-diz-central-de-atendimento-a-mulher/)					
+
+“Fiz a denúncia sozinho”, diz jovem sobre o pedido de impeachment de Janot					
+23/06/2016								
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/23/fiz-a-denuncia-sozinho-diz-jovem-sobre-o-pedido-de-impeachment-de-janot/)					
+
+43 dos 114 candidatos no 2º turno declaram ter mais de R$ 1 milhão em bens					
+29/10/2016								
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/29/43-dos-114-candidatos-no-2-turno-declaram-ter-mais-de-r-1-milhao-em-bens/)					
+
+Só 8% dos deputados aderem a site da Câmara para participação social					
+27/06/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/27/so-8-dos-deputados-aderem-a-site-da-camara-para-participacao-social/)					
+					
+Contas eleitorais de 35% dos candidatos do 2º turno têm saldo negativo					
+31/10/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/31/contas-eleitorais-de-35-dos-candidatos-do-2o-turno-tem-saldo-negativo/)					
+
+Acordão patrocinado por PMDB e PT vai beneficiar Cunha, diz Marina Silva					
+03/09/2016					
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/03/acordao-patrocinado-por-pmdb-e-pt-vai-beneficiar-cunha-diz-marina-silva/)				
+
+Menos de 1/3 das candidaturas para vereador é de mulheres				
+25/08/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/25/menos-de-13-das-candidaturas-para-vereador-e-de-mulheres/)    
+Ministério Público aciona mais de 2.000 prefeitos para exigir transparência				
+09/06/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/09/ministerio-publico-aciona-mais-de-2-000-prefeitos-para-exigir-transparencia/)				
+			
+39% das prefeituras não divulgam salários de servidores na interne								
+19/10/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/39-das-prefeituras-nao-divulgam-salarios-de-servidores-na-internet/)				
+					
+Aliados recomendam a Dilma fortalecer narrativa do “golpe” em discurso				
+28/08/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/28/aliados-recomendam-a-dilma-fortalecer-narrativa-do-golpe-em-discurso/)				
+
+CCJ já tem maioria declarada de 35 votos contra Cunha				
+13/07/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/13/ccj-ja-tem-maioria-declarada-de-35-votos-contra-cunha/)
+			
+Romance narra história da 1ª mulher transexual a ser presidente do Brasil				
+19/06/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/19/romance-narra-historia-da-1a-mulher-transexual-a-ser-presidente-do-brasil/)				
+
+Só 7 de 22 candidatos a prefeito em SP e Rio pedem doação em site oficial				
+02/09/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/02/so-7-de-22-candidatos-a-prefeito-em-sp-e-rio-pedem-doacao-em-site-oficial/)				
+
+Justiça proíbe evento sobre eleições em universidade pública do Rio				
+06/09/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/06/justica-proibe-evento-sobre-eleicoes-em-universidade-publica-do-rio/)				
+
+Acusado de agressão a Luiza Brunet é 2º suplente do senador Eduardo Braga				
+01/07/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/01/acusado-de-agressao-a-luiza-brunet-e-2o-suplente-do-senador-eduardo-braga/)								
+
+“Cunha subestimou os deputados”, diz autor de pergunta sobre conta na Suíça				
+14/09/2016				
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/14/cunha-subestimou-os-deputados-diz-autor-de-pergunta-sobre-conta-na-suica/)				
