@@ -379,3 +379,7 @@ Acusado de agressão a Luiza Brunet é 2º suplente do senador Eduardo Braga
 “Cunha subestimou os deputados”, diz autor de pergunta sobre conta na Suíça        
 14/09/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/14/cunha-subestimou-os-deputados-diz-autor-de-pergunta-sobre-conta-na-suica/)				
+
+## Estadão
+
+...
