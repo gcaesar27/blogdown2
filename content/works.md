@@ -5,97 +5,97 @@ title: Trabalhos
 ---
 ## G1   
 
-12% dos deputados federais eleitos não receberam dinheiro dos partidos na eleição
-17/11/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/17/12-dos-deputados-federais-eleitos-nao-receberam-dinheiro-dos-partidos-na-eleicao.ghtml)
+12% dos deputados federais eleitos não receberam dinheiro dos partidos na eleição   
+17/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/17/12-dos-deputados-federais-eleitos-nao-receberam-dinheiro-dos-partidos-na-eleicao.ghtml)   
 
-Perfil médio do candidato nesta eleição é homem, branco, casado, com ensino superior
-29/08/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/29/perfil-medio-do-candidato-nesta-eleicao-e-homem-branco-casado-com-ensino-superior.ghtml)
+Perfil médio do candidato nesta eleição é homem, branco, casado, com ensino superior    
+29/08/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/29/perfil-medio-do-candidato-nesta-eleicao-e-homem-branco-casado-com-ensino-superior.ghtml)   
 
-O que pensa a nova Câmara
-27/11/2018
-[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/o-que-pensa-a-nova-camara.ghtml)
+O que pensa a nova Câmara   
+27/11/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/o-que-pensa-a-nova-camara.ghtml)   
 
-PT supera MDB e governará quatro estados; veja quem são os eleitos
-28/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/pt-supera-mdb-e-governara-quatro-estados-veja-quem-sao-os-eleitos.ghtml)
+PT supera MDB e governará quatro estados; veja quem são os eleitos   
+28/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/pt-supera-mdb-e-governara-quatro-estados-veja-quem-sao-os-eleitos.ghtml)   
 
-PSDB e PT são os partidos que irão governar o maior número de habitantes
-28/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/psdb-e-pt-sao-os-partidos-que-irao-governar-o-maior-numero-de-habitantes.ghtml)
+PSDB e PT são os partidos que irão governar o maior número de habitantes   
+28/10/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/psdb-e-pt-sao-os-partidos-que-irao-governar-o-maior-numero-de-habitantes.ghtml)    
 
-Eleitos para o Senado injetam mais de R$ 16 milhões em suas campanhas
-16/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/16/eleitos-para-o-senado-injetam-mais-de-r-16-milhoes-em-suas-campanhas.ghtml)
+Eleitos para o Senado injetam mais de R$ 16 milhões em suas campanhas    
+16/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/16/eleitos-para-o-senado-injetam-mais-de-r-16-milhoes-em-suas-campanhas.ghtml)   
 
-Haddad ganha no Nordeste; e Bolsonaro, nas demais regiões do país
-29/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-ganha-no-nordeste-e-bolsonaro-nas-demais-regioes-do-pais.ghtml)
+Haddad ganha no Nordeste; e Bolsonaro, nas demais regiões do país   
+29/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-ganha-no-nordeste-e-bolsonaro-nas-demais-regioes-do-pais.ghtml)   
 
-Repasses de partidos a candidatos ultrapassam R$ 1 bilhão; MDB, PR e PP são os que mais transferiram recursos
-19/09/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/19/repasses-de-partidos-a-candidatos-ultrapassam-r-1-bilhao-mdb-pr-e-pp-sao-os-que-mais-transferiram-recursos.ghtml)
+Repasses de partidos a candidatos ultrapassam R$ 1 bilhão; MDB, PR e PP são os que mais transferiram recursos   
+19/09/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/19/repasses-de-partidos-a-candidatos-ultrapassam-r-1-bilhao-mdb-pr-e-pp-sao-os-que-mais-transferiram-recursos.ghtml)   
 
-2/3 dos reeleitos para a Câmara têm votação menor nesta eleição
-11/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/23-dos-reeleitos-para-a-camara-tem-votacao-menor-nesta-eleicao.ghtml)
+2/3 dos reeleitos para a Câmara têm votação menor nesta eleição   
+11/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/23-dos-reeleitos-para-a-camara-tem-votacao-menor-nesta-eleicao.ghtml)   
 
-Veja quem são os 27 governadores eleitos nas eleições deste ano
-28/10/2018 
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/veja-quem-sao-os-27-governadores-eleitos-nas-eleicoes-deste-ano.ghtml)
+Veja quem são os 27 governadores eleitos nas eleições deste ano   
+28/10/2018     
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/28/veja-quem-sao-os-27-governadores-eleitos-nas-eleicoes-deste-ano.ghtml)    
 
-Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014
-08/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml)
+Número de policiais e militares no Legislativo é quatro vezes maior do que o de 2014   
+08/10/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/08/numero-de-policiais-e-militares-no-legislativo-e-quatro-vezes-maior-do-que-o-de-2014.ghtml)   
 
-Novidade nestas eleições, 'vaquinha' eleitoral arrecada R$ 11 milhões a candidatos
-03/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/03/novidade-nestas-eleicoes-vaquinha-eleitoral-arrecada-r-11-milhoes-a-candidatos.ghtml)
+Novidade nestas eleições, 'vaquinha' eleitoral arrecada R$ 11 milhões a candidatos   
+03/10/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/03/novidade-nestas-eleicoes-vaquinha-eleitoral-arrecada-r-11-milhoes-a-candidatos.ghtml)   
 
-EUA, Japão e Portugal têm maior eleitorado inscrito para votar no exterior nestas eleições
-12/09/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/12/eua-japao-e-portugal-tem-maior-eleitorado-inscrito-para-votar-no-exterior-nestas-eleicoes.ghtml)
+EUA, Japão e Portugal têm maior eleitorado inscrito para votar no exterior nestas eleições   
+12/09/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/12/eua-japao-e-portugal-tem-maior-eleitorado-inscrito-para-votar-no-exterior-nestas-eleicoes.ghtml)   
 
-Maior doador desta eleição ajuda a eleger 24 candidatos de 10 partidos diferentes
-12/10/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/12/maior-doador-desta-eleicao-ajuda-a-eleger-24-candidatos-de-10-partidos-diferentes.ghtml)
+Maior doador desta eleição ajuda a eleger 24 candidatos de 10 partidos diferentes    
+12/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/12/maior-doador-desta-eleicao-ajuda-a-eleger-24-candidatos-de-10-partidos-diferentes.ghtml)   
 
-RJ e SP são os estados com a maior competição por vaga no Legislativo
-23/08/2018 
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/23/rj-e-sp-sao-os-estados-com-a-maior-competicao-por-vaga-no-legislativo.ghtml)
+RJ e SP são os estados com a maior competição por vaga no Legislativo    
+23/08/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/23/rj-e-sp-sao-os-estados-com-a-maior-competicao-por-vaga-no-legislativo.ghtml)   
 
-Um em cada cinco candidatos doou dinheiro para a própria campanha nestas eleições
-26/09/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/26/um-em-cada-cinco-candidatos-doou-dinheiro-para-a-propria-campanha-nestas-eleicoes.ghtml)
+Um em cada cinco candidatos doou dinheiro para a própria campanha nestas eleições   
+26/09/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/26/um-em-cada-cinco-candidatos-doou-dinheiro-para-a-propria-campanha-nestas-eleicoes.ghtml)   
 
-Perfil médio do deputado federal eleito é homem, branco, casado e com ensino superior
-21/10/2018 
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/21/perfil-medio-do-deputado-federal-eleito-e-homem-branco-casado-e-com-ensino-superior.ghtml)
+Perfil médio do deputado federal eleito é homem, branco, casado e com ensino superior   
+21/10/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/21/perfil-medio-do-deputado-federal-eleito-e-homem-branco-casado-e-com-ensino-superior.ghtml)   
 
-Políticos levam irmãos, filho, mulher e até mãe como suplentes em chapas para o Senado
-27/08/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/politicos-levam-irmaos-filho-mulher-e-ate-mae-como-suplentes-em-chapas-para-o-senado.ghtml)
+Políticos levam irmãos, filho, mulher e até mãe como suplentes em chapas para o Senado   
+27/08/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/27/politicos-levam-irmaos-filho-mulher-e-ate-mae-como-suplentes-em-chapas-para-o-senado.ghtml)   
 
-Cerca de 2 milhões de mesários devem trabalhar no 1º turno das eleições 2018
-10/09/2018
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/10/cerca-de-2-milhoes-de-mesarios-devem-trabalhar-no-1o-turno-das-eleicoes-2018.ghtml)
+Cerca de 2 milhões de mesários devem trabalhar no 1º turno das eleições 2018   
+10/09/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/10/cerca-de-2-milhoes-de-mesarios-devem-trabalhar-no-1o-turno-das-eleicoes-2018.ghtml)   
 
-Homem, branco, casado, 52 anos: veja o perfil médio dos governadores eleitos
-29/10/2018 
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/homem-branco-casado-52-anos-veja-o-perfil-medio-dos-governadores-eleitos.ghtml)
+Homem, branco, casado, 52 anos: veja o perfil médio dos governadores eleitos   
+29/10/2018    
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/homem-branco-casado-52-anos-veja-o-perfil-medio-dos-governadores-eleitos.ghtml)   
 
-Quase 300 transgêneros esperam cirurgia na rede pública 10 anos após portaria do SUS
-19/08/2018
-[Leia a matéria](https://g1.globo.com/ciencia-e-saude/noticia/2018/08/19/quase-300-transgeneros-esperam-cirurgia-na-rede-publica-10-anos-apos-portaria-do-sus.ghtml)
+Quase 300 transgêneros esperam cirurgia na rede pública 10 anos após portaria do SUS   
+19/08/2018   
+[Leia a matéria](https://g1.globo.com/ciencia-e-saude/noticia/2018/08/19/quase-300-transgeneros-esperam-cirurgia-na-rede-publica-10-anos-apos-portaria-do-sus.ghtml)   
 
 Marcela Ross NÃO existe, pesquisa NÃO mostra 94% de apoio à intervenção militar e país NÃO está em estado de sítio: como funciona uma das fábricas de fake news no Brasil   
-25/06/2018   
-[Leia a matéria](https://g1.globo.com/politica/noticia/marcela-ross-nao-existe-pesquisa-nao-mostra-94-de-apoio-a-intervencao-militar-e-pais-nao-esta-em-estado-de-sitio-como-funciona-uma-das-fabricas-de-fake-news-no-brasil.ghtml)
+25/06/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/marcela-ross-nao-existe-pesquisa-nao-mostra-94-de-apoio-a-intervencao-militar-e-pais-nao-esta-em-estado-de-sitio-como-funciona-uma-das-fabricas-de-fake-news-no-brasil.ghtml)   
 
 Em dois anos de governo, Temer teve encontros oficiais com mais da metade do Congresso    
-12/05/2018   
-[Leia a matéria](https://g1.globo.com/politica/noticia/em-dois-anos-de-governo-temer-teve-encontros-oficiais-com-mais-da-metade-do-congresso.ghtml)
+12/05/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/em-dois-anos-de-governo-temer-teve-encontros-oficiais-com-mais-da-metade-do-congresso.ghtml)   
 
 Vídeo mostra dono da maior transportadora do Brasil fazendo crítica a políticos e imprensa e dizendo que a pauta não é a greve dos caminhoneiros? Não é verdade!    
 29/05/2018   
