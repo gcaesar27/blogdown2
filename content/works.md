@@ -11,11 +11,7 @@ title: Trabalhos
 
 Perfil médio do candidato nesta eleição é homem, branco, casado, com ensino superior    
 29/08/2018   
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/29/perfil-medio-do-candidato-nesta-eleicao-e-homem-branco-casado-com-ensino-superior.ghtml)   
-
-O que pensa a nova Câmara   
-27/11/2018    
-[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/o-que-pensa-a-nova-camara.ghtml)   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/08/29/perfil-medio-do-candidato-nesta-eleicao-e-homem-branco-casado-com-ensino-superior.ghtml)    
 
 PT supera MDB e governará quatro estados; veja quem são os eleitos   
 28/10/2018   
@@ -79,7 +75,91 @@ Políticos levam irmãos, filho, mulher e até mãe como suplentes em chapas par
 
 Cerca de 2 milhões de mesários devem trabalhar no 1º turno das eleições 2018   
 10/09/2018   
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/10/cerca-de-2-milhoes-de-mesarios-devem-trabalhar-no-1o-turno-das-eleicoes-2018.ghtml)   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/10/cerca-de-2-milhoes-de-mesarios-devem-trabalhar-no-1o-turno-das-eleicoes-2018.ghtml)      
+
+O que pensa a nova Câmara   
+27/11/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/o-que-pensa-a-nova-camara.ghtml)  
+
+Metade dos deputados federais eleitos é a favor da manutenção do teto de gastos   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/metade-dos-deputados-federais-eleitos-e-a-favor-da-manutencao-do-teto-de-gastos.ghtml)    
+
+Maioria dos deputados eleitos é favorável a privatizar estatais   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/maioria-dos-deputados-eleitos-e-favoravel-a-privatizar-estatais.ghtml)
+
+Quase 60% dos deputados eleitos se dizem a favor de idade mínima para aposentadoria   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/quase-60-dos-deputados-eleitos-se-dizem-a-favor-de-idade-minima-para-aposentadoria.ghtml)   
+
+Mais da metade dos deputados federais eleitos é a favor da adoção do imposto único    
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-da-metade-dos-deputados-federais-eleitos-e-a-favor-da-adocao-do-imposto-unico.ghtml)   
+
+Quase metade dos deputados eleitos é favorável a imposto de renda sobre dividendos   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/quase-metade-dos-deputados-eleitos-e-favoravel-a-imposto-de-renda-sobre-dividendos.ghtml)   
+
+Mais de 60% dos deputados são a favor de aumentar restrições para o funcionamento de partidos   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-de-60-dos-deputados-sao-a-favor-de-aumentar-restricoes-para-o-funcionamento-de-partidos.ghtml)   
+
+Maioria dos deputados federais eleitos é contra a volta da doação de empresas para campanhas   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/maioria-dos-deputados-federais-eleitos-e-contra-a-volta-da-doacao-de-empresas-para-campanhas.ghtml)   
+
+70% dos deputados federais eleitos são a favor de tipificar o caixa 2 como crime   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/70-dos-deputados-federais-eleitos-sao-a-favor-de-tipificar-o-caixa-2-como-crime.ghtml)   
+
+Quase metade dos deputados eleitos se diz contra novas medidas para restringir entrada de refugiados  
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/quase-metade-dos-deputados-eleitos-se-diz-contra-novas-medidas-para-restringir-entrada-de-refugiados.ghtml)   
+
+Medidas para facilitar compra e porte de armas dividem deputados federais eleitos   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/medidas-para-facilitar-compra-e-porte-de-armas-dividem-deputados-federais-eleitos.ghtml)   
+
+Maioria dos deputados federais eleitos é a favor de reduzir a maioridade penal   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/maioria-dos-deputados-federais-eleitos-e-a-favor-de-reduzir-a-maioridade-penal.ghtml)   
+
+Mais de 40% dos deputados eleitos dizem ser a favor da legalização da maconha apenas para uso medicinal   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-de-40-dos-deputados-eleitos-dizem-ser-a-favor-da-legalizacao-da-maconha-apenas-para-uso-medicinal.ghtml)   
+
+Mais da metade dos deputados federais é a favor de criminalizar a homofobia   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-da-metade-dos-deputados-federais-e-a-favor-de-criminalizar-a-homofobia.ghtml)   
+
+Mais da metade dos deputados federais é a favor do aborto nas situações atualmente previstas em lei   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-da-metade-dos-deputados-federais-e-a-favor-do-aborto-nas-situacoes-atualmente-previstas-em-lei.ghtml)   
+
+Deputados federais eleitos se dividem sobre classificar invasão de propriedades privadas como terrorismo   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/deputados-federais-eleitos-se-dividem-sobre-classificar-invasao-de-propriedades-privadas-como-terrorismo.ghtml)   
+
+Quase metade dos deputados eleitos é contra isentar de processo o policial que matar em serviço   
+27/11/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/quase-metade-dos-deputados-eleitos-e-contra-isentar-de-processo-o-policial-que-matar-em-servico.ghtml)   
+
+Mais de 40% dos deputados federais eleitos são a favor da cobrança de mensalidade de alunos ricos no ensino superior público   
+27/11/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/mais-de-40-dos-deputados-federais-eleitos-sao-a-favor-da-cobranca-de-mensalidade-de-alunos-ricos-no-ensino-superior-publico.ghtml)   
+
+Quase 60% dos deputados federais eleitos são contra o ensino religioso obrigatório nas escolas   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/quase-60-dos-deputados-federais-eleitos-sao-contra-o-ensino-religioso-obrigatorio-nas-escolas.ghtml)   
+
+Flamengo, Corinthians e Palmeiras são os times com a maior torcida entre os deputados eleitos   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/flamengo-corinthians-e-palmeiras-sao-os-times-com-a-maior-torcida-entre-os-deputados-eleitos.ghtml)   
+
+Maioria na Câmara se declara católica; número de evangélicos cresce   
+27/11/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2018/11/27/maioria-na-camara-se-declara-catolica-numero-de-evangelicos-cresce.ghtml)   
 
 Homem, branco, casado, 52 anos: veja o perfil médio dos governadores eleitos   
 29/10/2018    
