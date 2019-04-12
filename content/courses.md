@@ -28,6 +28,10 @@ Introduction to R course
 16/11/2018     
 [Veja o certificado](/static/introduction-to-r-course-datacamp-gabriela-caesar-16nov2018.pdf)
 
+FAAP
+Agenda Brasil
+06/03/2018 a 26/06/2018     
+Veja o certificado  
 
 Data Bootcamp     
 Data science para todos     
