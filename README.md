@@ -1,4 +1,3 @@
 # blogdown2
 
-my own website
-www.gabrielacaesar.com
+my own website <- www.gabrielacaesar.com
