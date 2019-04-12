@@ -17,10 +17,10 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
 
 [[menu.main]]
     name = "Sobre"
-    url = "/sobre/"
+    url = "/about/"
 [[menu.main]]
     name = "Trabalhos"
-    url = "/trabalhos/"
+    url = "/works/"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/gabrielacaesar"
