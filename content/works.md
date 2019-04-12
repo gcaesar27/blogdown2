@@ -120,16 +120,16 @@ As promessas dos políticos
 ## Poder360
 
 					
-Ciência sem Fronteiras muda e deixa de fora estudantes da graduação        				
-23/07/2016        
-[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/23/ciencia-sem-fronteiras-muda-e-deixa-de-fora-estudantes-da-graduacao/)        
+Ciência sem Fronteiras muda e deixa de fora estudantes da graduação       
+23/07/2016      
+[Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/23/ciencia-sem-fronteiras-muda-e-deixa-de-fora-estudantes-da-graduacao/)      
 
 CGU deixa de publicar levantamento anual sobre a Lei de Acesso à Informação        
-19/10/2016        				
+19/10/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/cgu-deixa-de-publicar-levantamento-anual-sobre-a-lei-de-acesso-a-informacao/)        
 
 Senado gasta R$ 120 mil em livros sobre o impeachment de Dilma Rousseff        
-19/10/2016        		
+19/10/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/senado-gasta-r-120-mil-em-livros-sobre-o-impeachment-de-dilma-rousseff/)        
 
 Pedro Paulo empregou a própria mãe quando era funcionário de Paes na Câmara        
@@ -137,15 +137,15 @@ Pedro Paulo empregou a própria mãe quando era funcionário de Paes na Câmara
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/09/pedro-paulo-empregou-a-propria-mae-quando-era-funcionario-de-paes-na-camara/)        
 
 Bahamas Leaks expõe brasileiros com offshore em paraíso fiscal no Caribe        
-27/09/2016        			
+27/09/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/27/bahamas-leaks-expoe-brasileiros-com-offshore-em-paraiso-fiscal-no-caribe/)        
 
 126 prefeitos eleitos tentam na Justiça retirar informações da internet        
-31/10/2016        			
+31/10/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/31/126-prefeitos-eleitos-tentam-na-justica-retirar-informacoes-da-internet/)        
 
 PSDB e PMDB lideram mapa de pesquisas nas 93 maiores cidades do país        
-28/09/2016        			
+28/09/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/28/psdb-e-pmdb-lideram-mapa-de-pesquisas-nas-93-maiores-cidades-do-pais/)					
 
 Governo tem votos suficientes para aprovar PEC do teto dos gastos        
@@ -179,11 +179,12 @@ Acordão patrocinado por PMDB e PT vai beneficiar Cunha, diz Marina Silva
 Menos de 1/3 das candidaturas para vereador é de mulheres        
 25/08/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/08/25/menos-de-13-das-candidaturas-para-vereador-e-de-mulheres/)    
-Ministério Público aciona mais de 2.000 prefeitos para exigir transparência        	
-09/06/2016        
+
+Ministério Público aciona mais de 2.000 prefeitos para exigir transparência     
+09/06/2016    
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/09/ministerio-publico-aciona-mais-de-2-000-prefeitos-para-exigir-transparencia/)				
 			
-39% das prefeituras não divulgam salários de servidores na internet        				
+39% das prefeituras não divulgam salários de servidores na internet    
 19/10/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/10/19/39-das-prefeituras-nao-divulgam-salarios-de-servidores-na-internet/)				
 					
@@ -195,11 +196,11 @@ CCJ já tem maioria declarada de 35 votos contra Cunha
 13/07/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/13/ccj-ja-tem-maioria-declarada-de-35-votos-contra-cunha/)
 			
-Romance narra história da 1ª mulher transexual a ser presidente do Brasil        	
+Romance narra história da 1ª mulher transexual a ser presidente do Brasil     
 19/06/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/06/19/romance-narra-historia-da-1a-mulher-transexual-a-ser-presidente-do-brasil/)				
 
-Só 7 de 22 candidatos a prefeito em SP e Rio pedem doação em site oficial        	
+Só 7 de 22 candidatos a prefeito em SP e Rio pedem doação em site oficial     
 02/09/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/02/so-7-de-22-candidatos-a-prefeito-em-sp-e-rio-pedem-doacao-em-site-oficial/)				
 
@@ -207,7 +208,7 @@ Justiça proíbe evento sobre eleições em universidade pública do Rio
 06/09/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/09/06/justica-proibe-evento-sobre-eleicoes-em-universidade-publica-do-rio/)				
 
-Acusado de agressão a Luiza Brunet é 2º suplente do senador Eduardo Braga        	
+Acusado de agressão a Luiza Brunet é 2º suplente do senador Eduardo Braga     
 01/07/2016        
 [Leia a matéria](http://fernandorodrigues.blogosfera.uol.com.br/2016/07/01/acusado-de-agressao-a-luiza-brunet-e-2o-suplente-do-senador-eduardo-braga/)								
 
