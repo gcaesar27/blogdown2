@@ -70,7 +70,7 @@ Treinamento
 
 CODA-BR     
 2018     
-Veja o certificado     
+[Veja o certificado](/static/codabr-gabriela-caesar-2018-certificado.pdf)   
 
 Abraji     
 2018     
