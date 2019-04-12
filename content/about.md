@@ -1,6 +1,6 @@
 ---
 date: "2019-04-10T01:48:51-07:00"
-title: About
+title: Sobre
 ---
 {{< image src="/gc.png" alt="gabriela caesar" position="center" style="height:250px;">}}
 
