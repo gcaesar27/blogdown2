@@ -3,6 +3,8 @@ date: "2019-04-11"
 title: Cursos
 ---
 
+## Cursos
+
 Datacamp     
 Intermediate R     
 08/04/2019     
@@ -52,3 +54,10 @@ Reprograma
 Front-end     
 Data     
 Veja o certificado     
+
+
+## Congressos e conferências
+
+Abraji
+2013
+[Veja o certificado](/static/gabriela-caesar-abraji-2013.pdf)
