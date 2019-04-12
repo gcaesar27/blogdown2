@@ -10,6 +10,11 @@ Intermediate R
 08/04/2019     
 [Veja o certificado](/static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
 
+Curso-R   
+Webscraping com R   
+06/04/2019   
+Veja o certificado   
+
 IME     
 Análise exploratória de dados e métodos estatísticos     
 31/01/2019     
