@@ -41,7 +41,7 @@ Agenda Brasil
 Veja o certificado       
 
 Data Bootcamp     
-Data science para todos     
+Data science, big data e machine learning    
 17/02/2018 a 25/02/2018    
 Veja o certificado     
 
