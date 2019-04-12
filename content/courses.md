@@ -38,6 +38,11 @@ Data science para todos
 Data     
 Veja o certificado     
 
+Medida SP    
+Introdução a GIS e mapeamento com QGIS    
+16/12/2017   
+Veja o certificado   
+
 Impacta     
 Javascript     
 Data     
