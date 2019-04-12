@@ -58,6 +58,6 @@ Veja o certificado
 
 ## Congressos e conferências
 
-Abraji
-2013
-[Veja o certificado](/static/gabriela-caesar-abraji-2013.pdf)
+Abraji     
+2013    
+[Veja o certificado](/static/gabriela-caesar-abraji-2013.pdf)   
