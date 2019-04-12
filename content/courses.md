@@ -6,11 +6,16 @@ title: Cursos
 Datacamp     
 Intermediate R     
 08/04/2019     
-Veja o certificado     
+[Veja o certificado](/static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
 
 IME     
 Análise exploratória de dados e metódolos estatísticos     
 31/01/2019     
+Veja o certificado     
+
+Datacamp     
+Communicating with data in the tidyverse course     
+Data     
 Veja o certificado     
 
 Datacamp     
@@ -21,12 +26,8 @@ Working with web data in R course
 Datacamp     
 Introduction to R course     
 16/11/2018     
-Veja o certificado     
+[Veja o certificado](/static/introduction-to-r-course-datacamp-gabriela-caesar-16nov2018.pdf)
 
-Datacamp     
-Communicating with data in the tidyverse course     
-Data     
-Veja o certificado     
 
 Data Bootcamp     
 Data Science para Todos     
