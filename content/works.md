@@ -382,4 +382,59 @@ Acusado de agressão a Luiza Brunet é 2º suplente do senador Eduardo Braga
 
 ## Estadão
 
-...
+
+Oposição alcança votos necessários para aprovar impeachment na Câmara    
+14/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,oposicao-alcanca-votos-necessarios-para-aprovar-impeachment-na-camara,1856474)    
+
+Impeachment tem ao menos 261 votos na Câmara; contrários chegam a 117    
+02/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,impeachment-tem-ao-menos-261-votos-na-camara-contrarios-chegam-a-117,10000024531)    
+
+Parlamentares listam motivos para afastamento    
+03/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,parlamentares-listam-motivos-para-afastamento,10000024509)    
+
+Deputados dizem que bases serão decisivas    
+03/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,deputados-dizem-que-bases-serao-decisivas,10000024507)    
+
+Mais de 800 mil visitam Placar do Impeachment na web    
+12/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,mais-de-800-mil-visitam-placar-do-impeachment-na-web,1855364)    
+
+Na estreia eleitoral, Rede mira em capitais    
+25/03/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,na-estreia-eleitoral--rede-mira-em-capitais,10000023192)    
+
+Nomes estão predefinidos em São Paulo, Rio e BH    
+25/03/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,nomes-estao-predefinidos-em-sao-paulo--rio-e-bh,10000023193)    
+
+Decreto assinado por Dilma amplia Lei de Acesso à Informação    
+16/05/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,decreto-assinado-por-dilma-amplia-lei-de-acesso-a-informacao,10000051465)
+
+Iniciativas querem estimular doações de pessoa física    
+27/05/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,iniciativas-querem-estimular-doacoes-de-pessoa-fisica,10000053676)
+
+Pesquisa aponta que Judiciário é o Poder menos transparente    
+12/05/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,pesquisa-aponta-que-judiciario-e-o-poder-menos-transparente,10000050811)
+
+Radialista apadrinhou Cunha na política    
+06/05/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,radialista-apadrinhou-cunha-na-politica,10000049448)    
+
+Manifestantes protestam contra nomeação de Lula na Av. Paulista    
+16/03/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,manifestantes-protestam-contra-nomeacao-de-lula-na-av-paulista,10000021640)    
+
+‘PMDB e PT são irmãos siameses na crise’, diz Marina Silva    
+22/03/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,pmdb-e-pt-sao-irmaos-siameses-na-crise,10000022577)        
+
+À ‘CNN’, Temer nega que Brasil seja ‘republiqueta’ do golpe    
+25/04/2016    
+[Leia a matéria](http://politica.estadao.com.br/noticias/geral,a-cnn-temer-nega-que-brasil-seja-republiqueta-do-golpe,10000027995)
