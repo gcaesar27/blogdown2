@@ -29,7 +29,8 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     url = "https://twitter.com/gabrielacaesar"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    homeSubtitle = "Jornalista de dados"
+    description = "Gabriela Caesar"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
