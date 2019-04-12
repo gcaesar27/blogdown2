@@ -58,33 +58,33 @@ Veja o certificado
 
 ## Congressos e conferências
 
-CODA-BR
-2018
-Veja o certificado
+CODA-BR     
+2018     
+Veja o certificado     
 
-Abraji
-2018
-Veja o certificado
+Abraji     
+2018     
+Veja o certificado     
 
-CODA-BR
-2017
-Veja o certificado
+CODA-BR     
+2017     
+Veja o certificado     
 
-Abraji
-2017
-Veja o certificado
+Abraji     
+2017     
+Veja o certificado     
 
-CODA-BR
-2016
-Veja o certificado
+CODA-BR     
+2016     
+Veja o certificado     
 
-Abraji
-2016
-Veja o certificado
+Abraji     
+2016     
+Veja o certificado     
 
-Abraji
-2014
-Veja o certificado
+Abraji     
+2014     
+Veja o certificado     
 
 Abraji     
 2013    
