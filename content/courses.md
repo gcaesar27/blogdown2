@@ -55,6 +55,11 @@ Front-end
 Data     
 Veja o certificado     
 
+O Estado de S.Paulo     
+Treinamento     
+2015     
+[Veja o certificado](/static/trainee-estadao-gabriela-caesar-2015-convertido.pdf)     
+
 
 ## Congressos e conferências
 
@@ -72,7 +77,7 @@ Veja o certificado
 
 Abraji     
 2017     
-Veja o certificado     
+[Veja o certificado](/static/abraji-gabriela-caesar-2017-convertido.pdf)
 
 CODA-BR     
 2016     
