@@ -438,3 +438,55 @@ Manifestantes protestam contra nomeação de Lula na Av. Paulista
 À ‘CNN’, Temer nega que Brasil seja ‘republiqueta’ do golpe    
 25/04/2016    
 [Leia a matéria](http://politica.estadao.com.br/noticias/geral,a-cnn-temer-nega-que-brasil-seja-republiqueta-do-golpe,10000027995)
+
+
+## Folha
+
+
+'Não faço festival para críticos', diz Roberto Medina     
+28/09/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/fsp/ilustrada/234674-nao-faco-festival-para-criticos-diz-roberto-medina.shtml)     
+
+Para organização evento foi um sucesso, apesar de escalação fraca     
+27/09/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/ilustrada/2015/09/1687284-para-organizacao-evento-foi-um-sucesso-apesar-de-escalacao-fraca.shtml)     
+
+Fãs de Rihanna chegam cedo para tentar ficar perto do palco     
+26/09/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/ilustrada/2015/09/1687032-fas-de-rihanna-chegam-cedo-para-tentar-ficar-perto-do-palco.shtml)     
+
+Compositor da escola de samba Vila Isabel é assassinado no Rio     
+24/12/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/2015/12/1722963-compositor-da-escola-de-samba-vila-isabel-e-assassinado-no-rio.shtml)     
+
+Policiais de UPP são presos sob suspeita de torturar quatro jovens     
+26/12/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/2015/12/1723296-policiais-de-upp-sao-presos-sob-suspeita-de-tortura-a-quatro-jovens.shtml)     
+
+Estrangeiros dominam teste da Rio-2016 na baía de Guanabara     
+17/08/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/fsp/esporte/229797-estrangeiros-dominam-teste-da-rio-2016-na-baia-de-guanabara.shtml)     
+
+No Rio, gangue usa retroescavadeira para roubar caixas eletrônicos     
+29/07/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/2015/07/1661679-no-rio-gangue-usa-retroescavadeira-para-roubar-caixas-eletronicos.shtml)     
+
+No Rio, manifestantes fazem ato tímido contra o presidente da Câmara     
+17/07/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/poder/2015/07/1657381-no-rio-manifestantes-fazem-ato-timido-contra-o-presidente-da-camara.shtml)     
+
+Passageiro morto dentro de estação de metrô no Rio é enterrado     
+11/07/2015     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/2015/07/1654641-passageiro-morto-dentro-de-estacao-de-metro-no-rio-e-enterrado.shtml)     
+
+Bala perdida mata menino que dormia no sofá de casa no Rio     
+05/06/2011     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/925751-bala-perdida-mata-menino-que-dormia-no-sofa-de-casa-no-rio.shtml)     
+
+Garotinho diz que seu carro foi atingido por dois tiros no Rio     
+04/06/2011     
+[Leia a matéria](http://www1.folha.uol.com.br/cotidiano/2011/06/925415-garotinho-diz-que-seu-carro-foi-atingido-por-dois-tiros-no-rio.shtml)     
+
+Rio isola líderes dos bombeiros presos     
+06/06/2011     
+[Leia a matéria](http://www1.folha.uol.com.br/fsp/cotidian/ff0606201113.htm)     
