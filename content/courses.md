@@ -41,7 +41,7 @@ Veja o certificado
 Medida SP    
 Introdução a GIS e mapeamento com QGIS    
 16/12/2017   
-Veja o certificado   
+[Veja o certificado](/static/certificado_Intro-GIS-e-mapeamento-com-QGIS-gabriela-caesar-16-dez-2017.pdf)
 
 Impacta     
 Javascript     
