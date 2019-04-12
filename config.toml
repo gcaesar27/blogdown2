@@ -24,12 +24,12 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     url = "/works/"
     weight = 2
 [[menu.main]]
-    name = "Tutoriais"
-    url = "/tutorials/"
-    weight = 3
-[[menu.main]]
     name = "Análises"
     url = "/analysis/"
+    weight = 3
+[[menu.main]]
+    name = "Tutoriais"
+    url = "/tutorials/"
     weight = 4
 
 
