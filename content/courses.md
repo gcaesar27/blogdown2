@@ -18,7 +18,7 @@ Veja o certificado
 IME     
 Análise exploratória de dados e métodos estatísticos     
 31/01/2019     
-Veja o certificado     
+[Veja o certificado](/static/apolo-ime-curso-verao-analise-exploratorio-de-dados-e-metodos-estatisticos-usp-jan-2019.pdf)
 
 Datacamp     
 Communicating with data in the tidyverse course     
