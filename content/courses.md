@@ -15,7 +15,7 @@ Veja o certificado
 
 Datacamp     
 Communicating with data in the tidyverse course     
-Data     
+28/11/2018    
 [Veja o certificado](/static/datacamp-tidyverse-timo-srf-28nov2018.pdf)
 
 Datacamp     
@@ -30,7 +30,7 @@ Introduction to R course
 
 
 Data Bootcamp     
-Data Science para Todos     
+Data science para todos     
 Data     
 Veja o certificado     
 
