@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriela Caesar</title>
+    <title>A Hugo website</title>
     <link>/</link>
-    <description>Gabriela Caesar</description>
-    <generator>Gabriela Caesar</generator>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 10 Apr 2019 01:48:51 -0700</lastBuildDate>
     
