@@ -16,7 +16,7 @@ Veja o certificado
 Datacamp     
 Working with web data in R course     
 16/11/2018     
-[Veja o certificado](/working-with-web-data-in-r-course-gabriela-caesar-16nov2018.pdf)
+[Veja o certificado](/static/working-with-web-data-in-r-course-gabriela-caesar-16nov2018.pdf)
 
 Datacamp     
 Introduction to R course     
