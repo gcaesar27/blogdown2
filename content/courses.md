@@ -42,7 +42,7 @@ Veja o certificado
 
 Data Bootcamp     
 Data science para todos     
-Data     
+17/02/2018 a 25/02/2018
 Veja o certificado     
 
 Medida SP    
