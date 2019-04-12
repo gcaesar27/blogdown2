@@ -16,7 +16,7 @@ Veja o certificado
 Datacamp     
 Communicating with data in the tidyverse course     
 Data     
-Veja o certificado     
+[Veja o certificado](/static/datacamp-tidyverse-timo-srf-28nov2018.pdf)
 
 Datacamp     
 Working with web data in R course     
