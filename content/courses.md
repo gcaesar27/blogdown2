@@ -73,7 +73,7 @@ Veja o certificado
 
 CODA-BR     
 2017     
-Veja o certificado     
+[Veja o certificado](/static/gabriela-caesar-escola-de-dados-codabr-2017.pdf)
 
 Abraji     
 2017     
