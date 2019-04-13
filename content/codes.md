@@ -3,7 +3,7 @@ date: "2019-04-11"
 title: Códigos
 ---
 
-Tenho feito códigos em R para automação, limpeza e análise de dados para o trabalho. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
+Tenho feito códigos em R para automatizar, limpar e analisar dados para o trabalho como jornalista de dados. Também fiz códigos para a criação de sites, com HTML, CSS e Javascript.   
 
 
 Automatização do download de fotos de senadores      
