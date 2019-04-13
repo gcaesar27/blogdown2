@@ -3,8 +3,6 @@ date: "2019-04-11"
 title: Cursos
 ---
 
-## Cursos
-
 Datacamp     
 Intermediate R     
 08/04/2019     
