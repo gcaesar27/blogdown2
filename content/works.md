@@ -3,6 +3,8 @@ date: "2019-04-11"
 title: Trabalhos
 
 ---
+Algumas das matérias que escrevi nos últimos anos, por veículo, com os respectivos títulos, links e datas.
+
 ## G1   
 
 12% dos deputados federais eleitos não receberam dinheiro dos partidos na eleição   
