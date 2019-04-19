@@ -2,7 +2,7 @@
 date: "2019-04-19"
 title: Tutoriais
 ---
-Lista de tutoriais escritos por mim.     
+Lista de tutoriais escritos por mim no Medium.     
 
 O básico de Google Spreadsheet para jornalistas: análise de dados     
 19/04/2019     
