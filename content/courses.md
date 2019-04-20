@@ -4,6 +4,11 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+Datacamp  
+Introduction to the tidyverse  
+20/04/2019  
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/introduction-to-the-tidyverse-gabriela-caesar-20-abril-2019.pdf)  
+
 Datacamp     
 Intermediate R     
 08/04/2019     
