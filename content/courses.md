@@ -17,7 +17,7 @@ Intermediate R
 Curso-R   
 Webscraping com R   
 06/04/2019   
-Veja o certificado   
+[Veja o certificado](/static/workshop-r-curso-r-6-abril-2019-gabriela-caesar.pdf)   
 
 IME     
 Análise exploratória de dados e métodos estatísticos     
