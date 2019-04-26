@@ -66,12 +66,12 @@ Veja o certificado
 
 Impacta     
 Javascript     
-Data     
+2017        
 Veja o certificado     
 
 Reprograma     
 Front-end     
-Data     
+2017       
 Veja o certificado     
 
 O Estado de S.Paulo     
