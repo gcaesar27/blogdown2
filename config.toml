@@ -53,7 +53,7 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     # path to the favicon, under "static"
     favicon = "favicon.ico"
 
-    [params.logo]
+[params.logo]
     width = 50
     height = 50
     alt = "Logo"
