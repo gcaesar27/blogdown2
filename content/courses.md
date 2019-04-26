@@ -26,7 +26,7 @@ Webscraping com R
 
 IME     
 Análise exploratória de dados e métodos estatísticos     
-31/01/2019     
+07/01/2019 a 04/02/2019       
 [Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/apolo-ime-curso-verao-analise-exploratorio-de-dados-e-metodos-estatisticos-usp-jan-2019.pdf)
 
 Datacamp     
