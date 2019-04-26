@@ -4,6 +4,12 @@ title: Cursos
 ---
 Lista com os cursos que eu fiz nos últimos anos, com os nomes da instituição e do curso, a data e o PDF do certificado.
 
+
+Datacamp   
+Importing data in R (part 1)   
+26/04/2019   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificate-importing-data-in-r-part-1-26-abril-2019-gabriela-caesar.pdf)   
+   
 Datacamp       
 Cleaning data in R      
 24/04/2019      
