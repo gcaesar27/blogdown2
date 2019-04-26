@@ -17,7 +17,7 @@ Introduction to the tidyverse
 Datacamp     
 Intermediate R     
 08/04/2019     
-[Veja o certificado](/static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
+[Veja o certificado](./static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
 
 Curso-R   
 Webscraping com R   
