@@ -17,32 +17,32 @@ Introduction to the tidyverse
 Datacamp     
 Intermediate R     
 08/04/2019     
-[Veja o certificado](./static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/intermediate-r-gabriela-caesar-datacamp-4-abril-2019.pdf)
 
 Curso-R   
 Webscraping com R   
 06/04/2019   
-[Veja o certificado](/static/workshop-r-curso-r-6-abril-2019-gabriela-caesar.pdf)   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/workshop-r-curso-r-6-abril-2019-gabriela-caesar.pdf)   
 
 IME     
 Análise exploratória de dados e métodos estatísticos     
 31/01/2019     
-[Veja o certificado](/static/apolo-ime-curso-verao-analise-exploratorio-de-dados-e-metodos-estatisticos-usp-jan-2019.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/apolo-ime-curso-verao-analise-exploratorio-de-dados-e-metodos-estatisticos-usp-jan-2019.pdf)
 
 Datacamp     
 Communicating with data in the tidyverse course     
 28/11/2018    
-[Veja o certificado](/static/datacamp-tidyverse-timo-srf-28nov2018.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/datacamp-tidyverse-timo-srf-28nov2018.pdf)
 
 Datacamp     
 Working with web data in R course     
 16/11/2018     
-[Veja o certificado](/static/working-with-web-data-in-r-course-gabriela-caesar-16nov2018.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/working-with-web-data-in-r-course-gabriela-caesar-16nov2018.pdf)
 
 Datacamp     
 Introduction to R course     
 16/11/2018     
-[Veja o certificado](/static/introduction-to-r-course-datacamp-gabriela-caesar-16nov2018.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/introduction-to-r-course-datacamp-gabriela-caesar-16nov2018.pdf)
 
 FAAP     
 Agenda Brasil     
@@ -57,7 +57,7 @@ Veja o certificado
 Medida SP    
 Introdução a GIS e mapeamento com QGIS    
 16/12/2017   
-[Veja o certificado](/static/certificado_Intro-GIS-e-mapeamento-com-QGIS-gabriela-caesar-16-dez-2017.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/certificado_Intro-GIS-e-mapeamento-com-QGIS-gabriela-caesar-16-dez-2017.pdf)
 
 Abraji    
 SQL para jornalistas   
@@ -77,14 +77,14 @@ Veja o certificado
 O Estado de S.Paulo     
 Treinamento     
 2015     
-[Veja o certificado](/static/trainee-estadao-gabriela-caesar-2015-convertido.pdf)     
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/trainee-estadao-gabriela-caesar-2015-convertido.pdf)     
 
 
 ## Congressos e conferências
 
 CODA-BR     
 2018     
-[Veja o certificado](/static/codabr-gabriela-caesar-2018-certificado.pdf)   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/codabr-gabriela-caesar-2018-certificado.pdf)   
 
 Abraji     
 2018     
@@ -92,11 +92,11 @@ Veja o certificado
 
 CODA-BR     
 2017     
-[Veja o certificado](/static/gabriela-caesar-escola-de-dados-codabr-2017.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-escola-de-dados-codabr-2017.pdf)
 
 Abraji     
 2017     
-[Veja o certificado](/static/abraji-gabriela-caesar-2017-convertido.pdf)
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/abraji-gabriela-caesar-2017-convertido.pdf)
 
 CODA-BR     
 2016     
@@ -112,4 +112,4 @@ Veja o certificado
 
 Abraji     
 2013    
-[Veja o certificado](/static/gabriela-caesar-abraji-2013.pdf)   
+[Veja o certificado](https://github.com/gabrielacaesar/blogdown2/blob/master/static/gabriela-caesar-abraji-2013.pdf)   
