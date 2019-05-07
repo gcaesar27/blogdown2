@@ -1,7 +1,8 @@
 ---
 title: "Funções básicas do R para jornalistas - 1"
+description = "Primeiro tutorial para mostrar a aplicação no R no jornalismo"
 author: "Gabriela Caesar"
-date: "02/05/2019"
+date = "2019-05-02"
 output: html_document
 ---
 
