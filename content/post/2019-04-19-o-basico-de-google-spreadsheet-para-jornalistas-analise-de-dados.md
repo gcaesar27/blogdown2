@@ -16,7 +16,7 @@ Para explicar as funcionalidades básicas do Google Spreadsheet, eu escrevi trê
 * [Formatação](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-formata%C3%A7%C3%A3o-98e2700691b7);   
 * Análise de dados (este post).  
 
-###Análise de dados:  
+### Análise de dados:  
 1) Filtrar  
 ![](https://cdn-images-1.medium.com/max/1600/1*HvOK9rekYOGdtG1DRteVuQ.gif)   
 
