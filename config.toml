@@ -81,6 +81,6 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
 
-    [languages.en.params.logo]
+    [languages.pt.params.logo]
       logoText = "gabrielacaesar"
       logoHomeLink = "/"
