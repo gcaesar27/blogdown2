@@ -16,7 +16,7 @@ Para explicar as funcionalidades básicas do Google Spreadsheet, eu escrevi trê
 * [Formatação](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-formata%C3%A7%C3%A3o-98e2700691b7);   
 * [Análise de dados](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-an%C3%A1lise-de-dados-fbf85ba117df).  
 
-## Funções matemáticas:
+### Funções matemáticas:
 
 1) Soma
 ![](https://cdn-images-1.medium.com/max/1600/1*bsXW1nzofKVKsgq7KVYI4Q.gif)
