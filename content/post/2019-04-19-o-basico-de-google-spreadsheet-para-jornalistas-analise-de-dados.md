@@ -18,6 +18,7 @@ Para explicar as funcionalidades básicas do Google Spreadsheet, eu escrevi trê
 
 Análise de dados:  
 1) Filtrar  
+[](https://cdn-images-1.medium.com/max/1600/1*HvOK9rekYOGdtG1DRteVuQ.gif)
 
 Uso do filtro no Google Spreadsheet
 2) Dividir em colunas
