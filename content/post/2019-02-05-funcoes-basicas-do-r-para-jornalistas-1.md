@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-## Tutorial 1
+## Tutorial 1:
 
 Este caderno mostra as funções básicas da linguagem de programação R que podem ser úteis para jornalistas. Anteriormente, eu fiz tutoriais com o [básico do Google Spreadsheet para jornalista](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-fun%C3%A7%C3%B5es-matem%C3%A1ticas-e3b87e5371d6).
 
