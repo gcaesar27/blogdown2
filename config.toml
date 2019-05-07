@@ -35,9 +35,9 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     name = "Tutoriais"
     url = "/tutorials/"
     weight = 5
-
-<p>TESTEEEE</p>
-<h2>TESTEEEE</h2>
+    
+[content]
+   title = "teste"
 
 [params]
     homeSubtitle = "Jornalista de dados"
