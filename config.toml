@@ -36,6 +36,9 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     url = "/tutorials/"
     weight = 5
     
+[content.posts]
+    post-title = "teste"
+    post-content = "teste2"
 
 [params]
     homeSubtitle = "Jornalista de dados"
