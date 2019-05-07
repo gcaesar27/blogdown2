@@ -5,10 +5,6 @@ date: "02/05/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-chooseCRANmirror(graphics=FALSE, ind=1)
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Tutorial 1
 
