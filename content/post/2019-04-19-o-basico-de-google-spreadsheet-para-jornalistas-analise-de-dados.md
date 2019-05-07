@@ -18,34 +18,34 @@ Para explicar as funcionalidades básicas do Google Spreadsheet, eu escrevi trê
 
 Análise de dados:  
 1) Filtrar  
-![](https://cdn-images-1.medium.com/max/1600/1*HvOK9rekYOGdtG1DRteVuQ.gif)
+![](https://cdn-images-1.medium.com/max/1600/1*HvOK9rekYOGdtG1DRteVuQ.gif)   
 
-Uso do filtro no Google Spreadsheet
-2) Dividir em colunas
+2) Dividir em colunas   
+![](https://cdn-images-1.medium.com/max/1600/1*6k06kKqOyhstjEkCK3LBLQ.gif)   
 
-Divisão de texto em mais de uma coluna
-3) Contar o nº de itens
+3) Contar o nº de itens   
+![](https://cdn-images-1.medium.com/max/1600/1*d8hEkWstJJvMkeMJd8X7Pw.gif)   
 
-Contagem do item selecionado
-4) Ordenar em lista alfabética
+4) Ordenar em lista alfabética   
+![](https://cdn-images-1.medium.com/max/1600/1*d8hEkWstJJvMkeMJd8X7Pw.gif)   
 
-Ordenação alfabética no Google Spreadsheet
-5) Substituir palavras e letras
+5) Substituir palavras e letras   
+![](https://cdn-images-1.medium.com/max/1600/1*LIVv8xBP0bht9yXrwxM1tQ.gif)   
 
-Substituição de letras e palavras
-6) Fazer uma tabela dinâmica
+6) Fazer uma tabela dinâmica   
+![](https://cdn-images-1.medium.com/max/1600/1*KzAJAEWobKtI1x7Nx7-RAw.gif)   
 
-Uso da tabela dinâmica (ou pivot table) no Google Spreadsheet
-7) Inspecionar o HTML
+7) Inspecionar o HTML   
+![](https://cdn-images-1.medium.com/max/1600/1*-DBmn3NaqQSXYcii8heDBw.gif)   
 
-Inspeção do HTML da página
-8) Importar a tabela do HTML
+8) Importar a tabela do HTML   
+![](https://cdn-images-1.medium.com/max/1600/1*DxiEVcgg3o2hV17a3LpeeQ.gif)   
 
-Importação de table (ou lista) para dentro do Google Spreadsheet
-9) Transformar em caixa baixa
+9) Transformar em caixa baixa   
+![](https://cdn-images-1.medium.com/max/1600/1*JQWmKr6VRdnngrsc1Z4_iQ.gif)   
 
-Uso da função lower( )
-10) Transformar em caixa alta
+10) Transformar em caixa alta   
+![](https://cdn-images-1.medium.com/max/1600/1*aNtk8Ma8BDiLVL-_yV58QQ.gif)   
 
-Uso da função upper( )
-11) Transformar em caixa alta e baixa
+11) Transformar em caixa alta e baixa   
+![](https://cdn-images-1.medium.com/max/1600/1*r3-EYJtDSiW89y2IA2Lcng.gif)   
