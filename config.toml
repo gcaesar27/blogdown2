@@ -36,14 +36,15 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     url = "/tutorials/"
     weight = 5
     
-[content.posts]
-    post-title = "teste"
-    post-content = "teste2"
-
 [params]
-    homeSubtitle = "Jornalista de dados"
-    description = "Gabriela Caesar"
-
+    # dir name of your blog content (default is `content/posts`)
+    contentTypeName = "post"
+    # "light" or "dark"
+    defaultTheme = "dark"
+    # if you set this to 0, only submenu trigger will be visible
+    showMenuItems = 2
+    # Enable to show reading time in minutes for posts
+    showReadingTime = false
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
