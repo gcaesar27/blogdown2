@@ -7,6 +7,43 @@ Algumas das matérias que escrevi nos últimos anos, por veículo, com os respec
 
 ## G1   
 
+
+Em dois anos de governo, Temer teve encontros oficiais com mais da metade do Congresso    
+12/05/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/em-dois-anos-de-governo-temer-teve-encontros-oficiais-com-mais-da-metade-do-congresso.ghtml)   
+
+Marcela Ross NÃO existe, pesquisa NÃO mostra 94% de apoio à intervenção militar e país NÃO está em estado de sítio: como funciona uma das fábricas de fake news no Brasil   
+25/06/2018    
+[Leia a matéria](https://g1.globo.com/politica/noticia/marcela-ross-nao-existe-pesquisa-nao-mostra-94-de-apoio-a-intervencao-militar-e-pais-nao-esta-em-estado-de-sitio-como-funciona-uma-das-fabricas-de-fake-news-no-brasil.ghtml)   
+
+2/3 dos reeleitos para a Câmara têm votação menor nesta eleição   
+11/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/23-dos-reeleitos-para-a-camara-tem-votacao-menor-nesta-eleicao.ghtml)   
+
+Haddad ganha no Nordeste; e Bolsonaro, nas demais regiões do país   
+29/10/2018   
+[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-ganha-no-nordeste-e-bolsonaro-nas-demais-regioes-do-pais.ghtml)   
+
+Viagens de jatinho, flat de luxo, refeição de R$ 1.000… Gastos de senadores com cota parlamentar chegam a R$ 26,6 milhões em 2017   
+21/04/2018   
+[Leia a matéria](https://g1.globo.com/politica/noticia/viagens-de-jatinho-flat-de-luxo-refeicao-de-r-1000-gastos-de-senadores-com-cota-parlamentar-chegam-a-r-266-milhoes-em-2017.ghtml)   
+
+Nova Câmara: 50 deputados federais são réus em processos criminais   
+28/02/2019   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2019/02/28/nova-camara-50-deputados-federais-sao-reus-em-processos-criminais.ghtml)   
+
+Número de pessoas mortas pela polícia no Brasil cresce 18% em 2018; assassinatos de policiais caem   
+19/04/2019   
+[Leia a matéria](https://g1.globo.com/monitor-da-violencia/noticia/2019/04/19/numero-de-pessoas-mortas-pela-policia-no-brasil-cresce-em-2018-assassinatos-de-policiais-caem.ghtml)   
+
+Cai o nº de mulheres vítimas de homicídio, mas registros de feminicídio crescem no Brasil   
+08/03/2019   
+[Leia a matéria](https://g1.globo.com/monitor-da-violencia/noticia/2019/03/08/cai-o-no-de-mulheres-vitimas-de-homicidio-mas-registros-de-feminicidio-crescem-no-brasil.ghtml)   
+
+Governo federal impôs sigilo a 73.281 documentos em um ano; mais da metade dos órgãos não informa dados   
+24/01/2019   
+[Leia a matéria](https://g1.globo.com/politica/noticia/2019/01/24/governo-federal-impos-sigilo-a-73281-documentos-em-um-ano-mais-da-metade-dos-orgaos-nao-informa-dados.ghtml)   
+
 12% dos deputados federais eleitos não receberam dinheiro dos partidos na eleição   
 17/11/2018   
 [Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/11/17/12-dos-deputados-federais-eleitos-nao-receberam-dinheiro-dos-partidos-na-eleicao.ghtml)   
@@ -27,17 +64,9 @@ Eleitos para o Senado injetam mais de R$ 16 milhões em suas campanhas
 16/10/2018   
 [Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/16/eleitos-para-o-senado-injetam-mais-de-r-16-milhoes-em-suas-campanhas.ghtml)   
 
-Haddad ganha no Nordeste; e Bolsonaro, nas demais regiões do país   
-29/10/2018   
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/29/haddad-ganha-no-nordeste-e-bolsonaro-nas-demais-regioes-do-pais.ghtml)   
-
 Repasses de partidos a candidatos ultrapassam R$ 1 bilhão; MDB, PR e PP são os que mais transferiram recursos   
 19/09/2018   
 [Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/09/19/repasses-de-partidos-a-candidatos-ultrapassam-r-1-bilhao-mdb-pr-e-pp-sao-os-que-mais-transferiram-recursos.ghtml)   
-
-2/3 dos reeleitos para a Câmara têm votação menor nesta eleição   
-11/10/2018   
-[Leia a matéria](https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/11/23-dos-reeleitos-para-a-camara-tem-votacao-menor-nesta-eleicao.ghtml)   
 
 Veja quem são os 27 governadores eleitos nas eleições deste ano   
 28/10/2018     
@@ -171,21 +200,9 @@ Quase 300 transgêneros esperam cirurgia na rede pública 10 anos após portaria
 19/08/2018   
 [Leia a matéria](https://g1.globo.com/ciencia-e-saude/noticia/2018/08/19/quase-300-transgeneros-esperam-cirurgia-na-rede-publica-10-anos-apos-portaria-do-sus.ghtml)   
 
-Marcela Ross NÃO existe, pesquisa NÃO mostra 94% de apoio à intervenção militar e país NÃO está em estado de sítio: como funciona uma das fábricas de fake news no Brasil   
-25/06/2018    
-[Leia a matéria](https://g1.globo.com/politica/noticia/marcela-ross-nao-existe-pesquisa-nao-mostra-94-de-apoio-a-intervencao-militar-e-pais-nao-esta-em-estado-de-sitio-como-funciona-uma-das-fabricas-de-fake-news-no-brasil.ghtml)   
-
-Em dois anos de governo, Temer teve encontros oficiais com mais da metade do Congresso    
-12/05/2018    
-[Leia a matéria](https://g1.globo.com/politica/noticia/em-dois-anos-de-governo-temer-teve-encontros-oficiais-com-mais-da-metade-do-congresso.ghtml)   
-
 Vídeo mostra dono da maior transportadora do Brasil fazendo crítica a políticos e imprensa e dizendo que a pauta não é a greve dos caminhoneiros? Não é verdade!    
 29/05/2018   
 [Leia a matéria](https://g1.globo.com/e-ou-nao-e/noticia/video-mostra-dono-da-maior-transportadora-do-brasil-fazendo-critica-a-politicos-e-imprensa-e-dizendo-que-a-pauta-nao-e-a-greve-dos-caminhoneiros-nao-e-verdade.ghtml)
-
-Viagens de jatinho, flat de luxo, refeição de R$ 1.000… Gastos de senadores com cota parlamentar chegam a R$ 26,6 milhões em 2017   
-21/04/2018   
-[Leia a matéria](https://g1.globo.com/politica/noticia/viagens-de-jatinho-flat-de-luxo-refeicao-de-r-1000-gastos-de-senadores-com-cota-parlamentar-chegam-a-r-266-milhoes-em-2017.ghtml)   
 
 Vídeo mostra meninos da Tailândia sendo resgatados em macas e sedados? Não é verdade!   
 10/07/2018   
