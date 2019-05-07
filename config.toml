@@ -42,8 +42,6 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     contentTypeName = "post"
     # "light" or "dark"
     defaultTheme = "dark"
-    # if you set this to 0, only submenu trigger will be visible
-    showMenuItems = 2
     # Enable to show reading time in minutes for posts
     showReadingTime = false
     # options for highlight.js (version, additional languages, and theme)
