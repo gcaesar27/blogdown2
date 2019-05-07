@@ -8,6 +8,8 @@ output: html_document
 
 ## Tutorial 1:
 
+![](https://cdn-images-1.medium.com/max/1200/1*xvzhZtBfl3hqnF0AMdoIUA.gif)
+
 Este caderno mostra as funções básicas da linguagem de programação R que podem ser úteis para jornalistas. Anteriormente, eu fiz tutoriais com o [básico do Google Spreadsheet para jornalista](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-fun%C3%A7%C3%B5es-matem%C3%A1ticas-e3b87e5371d6).
 
 Caso você não tenha o RStudio na sua máquina, por favor siga o passo a passo deste tutorial (em inglês) para [Mac](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4) e [Windows](https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027). Também recomendo que você baixe um editor de texto, como o [Sublime](https://www.sublimetext.com/3).
