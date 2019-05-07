@@ -1,5 +1,5 @@
 ---
-title: "O básico de Google Spreadsheet para jornalistas: análise de dados"
+title: "O básico de Google Spreadsheet para jornalistas: formatação"
 author: "Gabriela Caesar"
 date: "2019-04-17"
 output: html_document
