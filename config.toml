@@ -5,6 +5,7 @@ theme = "hugo-theme-hello-friend"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 5
 
 description = "Site de Gabriela Caesar"
 keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive journalism, reporter, g1, programação, r, rstudio"
