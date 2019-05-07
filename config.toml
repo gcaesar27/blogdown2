@@ -65,22 +65,3 @@ keywords = "jornalismo de dados, jornalismo, data journalism, ddj, data drive jo
     logoText = "gabriela caesar"
     logoHomeLink = "/"
     
-[languages]
- [languages.pt]
-    title = "Gabriela Caesar"
-    subtitle = "jornalista de dados"
-    keywords = ""
-    copyright = ""
-    menuMore = "Veja mais"
-    writtenBy = "Escrito por"
-    readMore = "Leia mais"
-    readOtherPosts = "Leia outros posts"
-    newerPosts = "Novos posts"
-    olderPosts = "Posts antigos"
-    minuteReadingTime = "Tempo de leitura"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-
-    [languages.pt.params.logo]
-      logoText = "gabrielacaesar"
-      logoHomeLink = "/"
