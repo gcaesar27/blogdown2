@@ -1,3 +1,11 @@
+---
+title: "O básico de Google Spreadsheet para jornalistas: análise de dados"
+author: "Gabriela Caesar"
+date: "2019-04-19"
+output: html_document
+---
+
+
 O Google Spreadsheet é uma espécie de Excel que já vem junto com o Google Drive e te permite trabalhar com planilhas no navegador — inclusive compartilhando com outros colegas da equipe.   
 
 É uma ferramenta de fácil uso e que funciona bem para quem não vai trabalhar com arquivos grandes.   
