@@ -12,8 +12,8 @@ O Google Spreadsheet é uma espécie de Excel que já vem junto com o Google Dri
 
 Para explicar as funcionalidades básicas do Google Spreadsheet, eu escrevi três posts:   
 
-* Funções matemáticas;   
-* Formatação;   
+* [Funções matemáticas](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-fun%C3%A7%C3%B5es-matem%C3%A1ticas-e3b87e5371d6);   
+* [Formatação](https://medium.com/@gabrielacaesar/o-b%C3%A1sico-de-google-spreadsheet-para-jornalistas-formata%C3%A7%C3%A3o-98e2700691b7);   
 * Análise de dados (este post).  
 
 Análise de dados:  
